@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="demo"/>
+<aop-project name="gs-messaging-jms"/>
+<aop-project name="gs-spring-boot"/>
+</aop-reference-model>
